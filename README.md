@@ -1,2 +1,2 @@
 # DevOps Crash Course Lab
-# Aleksandrov Mykyta
+Aleksandrov Mykyta
